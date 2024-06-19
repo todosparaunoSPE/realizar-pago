@@ -10,6 +10,15 @@ import streamlit as st
 # Título de la Aplicación
 st.title('Pagar Servicio de Gestión de Contactos')
 
+st.subheader("")
+st.subheader("")
+
+st.subheader("El precio de suscripción para uso de la aplicación es de $100 por semestre")
+
+st.subheader("")
+
+st.subheader("No olvides ingresar tu correo electrónico")
+
 # Ayuda para usuarios en el sidebar
 st.sidebar.header("Ayuda")
 st.sidebar.markdown("""
