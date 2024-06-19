@@ -11,7 +11,7 @@ import streamlit as st
 st.title('Pagar Servicio de Gestión de Contactos')
 
 # URL del producto en Stripe
-stripe_product_url = "https://buy.stripe.com/6oEeYqaG37WVfiE288"
+stripe_product_url = "https://buy.stripe.com/5kAbKi4tC5up6Fq7ss"
 
 # Mostrar el enlace para pagar
 if st.button('Pagar'):
